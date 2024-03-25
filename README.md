@@ -37,7 +37,7 @@ This section is intended for advanced users who want to run the bot on their own
 
 ### Prerequisites
 
-* [Go](https://golang.org/dl/) (1.11+ required, since this project uses modules)
+* [Go](https://golang.org/dl/) (1.18+ required, since this project uses modules)
 * [An Application and Bot User](https://discordapp.com/developers/applications) with permissions to read write messages in the server you want the bot to run.
 
 A binary distribution solution will be considered in the future in order to remove the Go requirement. A docker version is also planned.
